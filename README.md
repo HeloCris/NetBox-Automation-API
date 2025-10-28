@@ -37,7 +37,7 @@ netbox-automation-api
 2. Crie um ambiente virtual:
    ```
    python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   source venv/bin/activate  # No Windows use `venv\Scripts\activate`
    ```
 
 3. Instale as dependências necessárias:
