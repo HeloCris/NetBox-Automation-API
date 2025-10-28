@@ -9,7 +9,6 @@ Este projeto é uma API REST projetada para automatizar a documentação da infr
 - Endpoints de API RESTful para interação
 
 ## Estrutura do Projeto
-## Project Structure
 
 ```
 netbox-automation-api
