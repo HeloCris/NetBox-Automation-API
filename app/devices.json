@@ -1,0 +1,18 @@
+{
+  "devices": [
+    {
+      "name": "roteador-01",
+      "ip_address": "192.168.1.1",
+      "mac_address": "AA:BB:CC:DD:EE:FF",
+      "device_type": "Router",
+      "vendor": "Cisco"
+    },
+    {
+      "name": "switch-01",
+      "ip_address": "192.168.1.2",
+      "mac_address": "FF:EE:DD:CC:BB:AA",
+      "device_type": "Switch",
+      "vendor": "Juniper"
+    }
+  ]
+}
